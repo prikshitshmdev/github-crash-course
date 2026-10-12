@@ -15,3 +15,9 @@ function newFnc(){
     console.log("Hi i am a new Function");
     
 }
+
+
+function newFeature(){
+    console.log("Hello Ji");
+    
+}
