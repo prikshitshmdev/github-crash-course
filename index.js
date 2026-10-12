@@ -8,3 +8,7 @@ function sayMyName(){
     
 }
 
+function newFnc(){
+    console.log("Hi i am a new Function");
+    
+}
