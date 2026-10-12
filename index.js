@@ -1,0 +1,9 @@
+const age =24;
+
+const name ="Prikshit Sharma"
+const dob="01/01/2000"
+
+function sayMyName(){
+    console.log("My name is "+name);
+    
+}
