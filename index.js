@@ -19,5 +19,7 @@ function newFnc(){
 
 function newFeature(){
     console.log("Hello Ji");
+    console.log("Bawa ji");
+    
     
 }
