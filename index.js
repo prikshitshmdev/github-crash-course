@@ -8,6 +8,9 @@ function sayMyName(){
     
 }
 
+function isAbove18(){
+    return age>=18
+}
 function newFnc(){
     console.log("Hi i am a new Function");
     
